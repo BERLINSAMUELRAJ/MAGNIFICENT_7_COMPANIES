@@ -35,6 +35,26 @@ The data used in this dashboard is sourced from:
   
 - **Market Research Reports:** Industry and market share data from reputable market research providers.
 
+## Key Performance Indicators (KPIs)
+
+This dashboard tracks the following KPIs for each of the Magnificent 7 companies:
+
+1. **Market Share**: Visualizes the percentage of market share each company holds.
+2. **Revenue**: Displays the total revenue of each company over selected time periods.
+3. **Net Income**: Shows the net profit (or loss) of each company.
+4. **Stock Price**: Tracks the stock price trends for each company.
+5. **Earnings Per Share (EPS)**: Displays the earnings per share for each company.
+6. **Return on Investment (ROI)**: Evaluates the ROI for investors in each company.
+7. **Price-to-Earnings (P/E) Ratio**: Compares the P/E ratio for each company to assess its market valuation.
+8. **Market Capitalization**: Visualizes the market capitalization of each company.
+9. **Gross Margin**: Displays the profitability after direct costs.
+10. **Employee Count**: Provides the total number of employees in each company.
+11. **Debt-to-Equity Ratio**: Assesses the financial leverage of each company.
+12. **Annual Growth Rate**: Tracks the annual growth rate in revenue, profit, or market cap.
+13. **Customer Satisfaction (NPS)**: Displays the Net Promoter Score (NPS) to gauge customer loyalty.
+
+These KPIs are presented in a variety of interactive charts and graphs to help users easily analyze and compare the performance of each company.
+
 ## How to Contribute
 If you have suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request. We welcome contributions related to:
 - Adding new data sources or more companies for comparison.
