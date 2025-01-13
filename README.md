@@ -22,22 +22,19 @@ This dashboard enables users to visualize and compare key performance indicators
 - **Comparative Views:** Side-by-side comparison of the financial health and growth of these companies.
 - **Data Sources:** The data is sourced from reliable financial markets, public company reports, and stock market APIs.
 
-Data Sources
+## Data Sources
 The data used in this dashboard is sourced from:
+**Public Financial Reports:** Quarterly and annual reports from each of the Magnificent 7 companies.
+**Stock Market APIs:** Real-time and historical stock data sourced from public APIs like Yahoo Finance, Alpha Vantage, or other financial services.
+**Market Research Reports:** Industry and market share data from reputable market research providers.
 
-Public Financial Reports: Quarterly and annual reports from each of the Magnificent 7 companies.
-Stock Market APIs: Real-time and historical stock data sourced from public APIs like Yahoo Finance, Alpha Vantage, or other financial services.
-Market Research Reports: Industry and market share data from reputable market research providers.
-How to Contribute
+## How to Contribute
 If you have suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request. We welcome contributions related to:
-
-## Adding new data sources or more companies for comparison.
-Improving visualizations and adding new charts.
-Enhancing the dashboard's interactivity and user experience.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Adding new data sources or more companies for comparison.
+- Improving visualizations and adding new charts.
+- Enhancing the dashboard's interactivity and user experience.
 
 ## Acknowledgments
-Power BI for providing the platform to create interactive dashboards.
-Open-source contributors for tools and libraries used in the development.
-Financial data providers for accurate and up-to-date market data.
+- Power BI for providing the platform to create interactive dashboards.
+- Open-source contributors for tools and libraries used in the development.
+- Financial data providers for accurate and up-to-date market data.
