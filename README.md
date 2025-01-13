@@ -16,11 +16,11 @@ The Magnificent 7 Companies Market Share and Performance Dashboard is an interac
 This dashboard enables users to visualize and compare key performance indicators (KPIs), financial data, stock performance, and market share for each company. It allows stakeholders, analysts, and decision-makers to gain valuable insights into the competitive landscape of these global tech giants.
 
 ## Features
-- **Market Share Analysis**: Visualize the market share distribution across the Magnificent 7 companies.
-- **Performance Metrics**: View key performance metrics such as revenue, profits, growth rates, and more.
-- **Stock Performance**: Interactive charts showcasing historical stock performance and trends.
-- **Comparative Views**: Side-by-side comparison of the financial health and growth of these companies.
-- **Data Sources**: The data is sourced from reliable financial markets, public company reports, and stock market APIs.
+- **Market Share Analysis:** Visualize the market share distribution across the Magnificent 7 companies.
+- **Performance Metrics:** View key performance metrics such as revenue, profits, growth rates, and more.
+- **Stock Performance:** Interactive charts showcasing historical stock performance and trends.
+- **Comparative Views:** Side-by-side comparison of the financial health and growth of these companies.
+- **Data Sources:** The data is sourced from reliable financial markets, public company reports, and stock market APIs.
 
 Data Sources
 The data used in this dashboard is sourced from:
