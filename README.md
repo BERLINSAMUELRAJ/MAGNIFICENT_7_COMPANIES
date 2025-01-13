@@ -37,7 +37,7 @@ The data used in this dashboard is sourced from:
 
 See the Full Dashboard here - [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNjM2MTYzNGYtNzhiOS00NTgwLWI1MGEtMjA1Njc0OGU1YjFjIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
 
-![Magnificent_7_Dashboard](Magnificent dashboard.png)
+![Magnificent 7 Dashboard]()
 
 ## Key Performance Indicators (KPIs)
 
