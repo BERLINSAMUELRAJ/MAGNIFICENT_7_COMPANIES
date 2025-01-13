@@ -35,6 +35,10 @@ The data used in this dashboard is sourced from:
   
 - **Market Research Reports:** Industry and market share data from reputable market research providers.
 
+See the Full Dashboard here - [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNjM2MTYzNGYtNzhiOS00NTgwLWI1MGEtMjA1Njc0OGU1YjFjIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
+
+![Magnificent 7 Dashboard](Magnificent dashboard.png)
+
 ## Key Performance Indicators (KPIs)
 
 This dashboard tracks the following KPIs for each of the Magnificent 7 companies:
