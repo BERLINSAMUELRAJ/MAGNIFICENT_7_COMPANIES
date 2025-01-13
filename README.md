@@ -12,6 +12,7 @@ The Magnificent 7 Companies Market Share and Performance Dashboard is an interac
 - Meta (Facebook)
 - Tesla
 - NVIDIA
+
 This dashboard enables users to visualize and compare key performance indicators (KPIs), financial data, stock performance, and market share for each company. It allows stakeholders, analysts, and decision-makers to gain valuable insights into the competitive landscape of these global tech giants.
 
 ## Features
