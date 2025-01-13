@@ -5,7 +5,7 @@
 ## Overview
 The Magnificent 7 Companies Market Share and Performance Dashboard is an interactive Power BI report that provides an in-depth analysis of the market share and performance metrics of the seven largest technology companies, often referred to as the "Magnificent 7." These companies include:
 
-- Apple
+- **Apple**
 - Microsoft
 - Alphabet (Google)
 - Amazon
