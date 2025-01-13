@@ -24,9 +24,10 @@ This dashboard enables users to visualize and compare key performance indicators
 
 ## Data Sources
 The data used in this dashboard is sourced from:
-**Public Financial Reports:** Quarterly and annual reports from each of the Magnificent 7 companies.
-**Stock Market APIs:** Real-time and historical stock data sourced from public APIs like Yahoo Finance, Alpha Vantage, or other financial services.
-**Market Research Reports:** Industry and market share data from reputable market research providers.
+
+-**Public Financial Reports:** Quarterly and annual reports from each of the Magnificent 7 companies.
+-**Stock Market APIs:** Real-time and historical stock data sourced from public APIs like Yahoo Finance, Alpha Vantage, or other financial services.
+-**Market Research Reports:** Industry and market share data from reputable market research providers.
 
 ## How to Contribute
 If you have suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request. We welcome contributions related to:
